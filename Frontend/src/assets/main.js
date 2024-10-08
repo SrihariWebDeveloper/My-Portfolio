@@ -1,17 +1,17 @@
-import tswreisLogo from './images/Tswreis.jpg'
-import jntuLogo from './images/jntuh.jpg'
-import medical from './images/Medical.jpg'
-import library from './images/Library.jpg'
-import youtube from './images/Youtube.jpg'
-import quiz from './images/Quiz.jpg'
-import ecommerce from './images/E-commerce.png'
-import chatgpt from './images/Chatgpt.jpg'
-import todoapp from './images/Todo.png'
-import aiplay from './images/AIatore.png'
-import taxcal from './images/Tax.png'
-import portfolio from './images/Portfolio.jpg'
-import chai from './images/Teashop.png';
-import air from './images/Air.jpeg';
+import tswreisLogo from '../assets/images/Tswreis.jpg'
+import jntuLogo from '../assets/images/jntuh.jpg'
+import medical from '../assets/images/Medical.jpg'
+import library from '../assets/images/Library.jpg'
+import youtube from '../assets/images/Youtube.jpg'
+import quiz from '../assets/images/Quiz.jpg'
+import ecommerce from '../assets/images/E-commerce.png'
+import chatgpt from '../assets/images/Chatgpt.jpg'
+import todoapp from '../assets/images/Todo.png'
+import aiplay from '../assets/images/AIatore.png'
+import taxcal from '../assets/images/Tax.png'
+import portfolio from '../assets/images/Portfolio.jpg'
+import chai from '../assets/images/Teashop.png';
+import air from '../assets/images/Air.jpeg';
 
 export const skills = [
   "HTML5", 

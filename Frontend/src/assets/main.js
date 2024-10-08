@@ -1,5 +1,5 @@
 import tswreisLogo from '../assets/images/Tswreis.jpg'
-import jntuLogo from '../assets/images/jntuh.jpg'
+import jntuLogo from '/images/jntuh.jpg'
 import medical from '../assets/images/Medical.jpg'
 import library from '../assets/images/Library.jpg'
 import youtube from '../assets/images/Youtube.jpg'
